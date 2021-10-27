@@ -1,5 +1,8 @@
-
-
-body {
-    
+html {
+  box-sizing: border-box;
+}
+body{
+  background-color:#3c454d;
+  font-family: 'Candara', sans-serif;
+  margin:0;
 }
